@@ -12,7 +12,6 @@
   <img align="center" alt="Gabriela-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriela-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriela-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gabi-gif" height="180" style="border-radius:50px;"   src="https://media.discordapp.net/attachments/908442628004134922/1028661616885112984/Design_sem_nome_1.gif?width=581&height=581">
 </div>
  </center>
   
